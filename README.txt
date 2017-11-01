@@ -1,6 +1,6 @@
 Introduction
 ------------
-I have made the MATLAB® source code for my system publicly available for research and testing purposes. For details of the underlying scientific principles please download my dissertation, available on the main project page.
+I have made the MATLABÂ® source code for my system publicly available for research and testing purposes. For details of the underlying scientific principles please download my dissertation, available on the main project page.
 
 
 Limitations
@@ -27,3 +27,10 @@ You may modify the code, however, acknowledgement to the original author must re
 
 Libor Masek
 November 2003
+
+Modification:
+Add 2 script to verity the LG data and match them.
+According to the result, draw the genuine and imposter distribution.
+
+Guangwei Ban
+November 2017
